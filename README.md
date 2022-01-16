@@ -1,4 +1,4 @@
-![image](logo.png)
+![image](./logo.png)
 
 # 西电杭州研究院AI明信片
 
